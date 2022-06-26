@@ -1,0 +1,22 @@
+{
+  "name": "vanilla-website",
+  "version": "1.0.0",
+  "description": "Change me",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "author": "luca.dallavalle@outlook.com",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "devDependencies": {
+    "@parcel/transformer-typescript-tsc": "^2.6.2",
+    "@typescript-eslint/eslint-plugin": "^5.29.0",
+    "@typescript-eslint/parser": "^5.29.0",
+    "eslint": "^8.18.0",
+    "eslint-config-prettier": "^8.5.0",
+    "parcel-bundler": "^1.12.5",
+    "prettier": "2.7.1",
+    "sass": "^1.53.0",
+    "typescript": "^4.7.4"
+  }
+}
